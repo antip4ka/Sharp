@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\bin\Debug\net6.0\HelloApp.exe
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\bin\Debug\net6.0\HelloApp.deps.json
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\bin\Debug\net6.0\HelloApp.runtimeconfig.json
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\bin\Debug\net6.0\HelloApp.dll
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\bin\Debug\net6.0\HelloApp.pdb
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.dll
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\refint\HelloApp.dll
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.pdb
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\HelloApp.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\HelloApp\HelloApp\obj\Debug\net6.0\ref\HelloApp.dll

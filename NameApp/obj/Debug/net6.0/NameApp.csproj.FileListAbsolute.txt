@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\NameApp\bin\Debug\net6.0\NameApp.exe
+C:\Users\Darhan\source\repos\NameApp\bin\Debug\net6.0\NameApp.deps.json
+C:\Users\Darhan\source\repos\NameApp\bin\Debug\net6.0\NameApp.runtimeconfig.json
+C:\Users\Darhan\source\repos\NameApp\bin\Debug\net6.0\NameApp.dll
+C:\Users\Darhan\source\repos\NameApp\bin\Debug\net6.0\NameApp.pdb
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.dll
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\refint\NameApp.dll
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.pdb
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\NameApp.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\NameApp\obj\Debug\net6.0\ref\NameApp.dll
