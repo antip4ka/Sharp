@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Antip.Matrix\bin\Debug\net6.0\Antip.Matrix.exe
+C:\Users\Darhan\source\repos\Antip.Matrix\bin\Debug\net6.0\Antip.Matrix.deps.json
+C:\Users\Darhan\source\repos\Antip.Matrix\bin\Debug\net6.0\Antip.Matrix.runtimeconfig.json
+C:\Users\Darhan\source\repos\Antip.Matrix\bin\Debug\net6.0\Antip.Matrix.dll
+C:\Users\Darhan\source\repos\Antip.Matrix\bin\Debug\net6.0\Antip.Matrix.pdb
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.dll
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\refint\Antip.Matrix.dll
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.pdb
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\Antip.Matrix.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Antip.Matrix\obj\Debug\net6.0\ref\Antip.Matrix.dll
