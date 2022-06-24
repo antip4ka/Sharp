@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\PeremennApp\bin\Debug\net6.0\PeremennApp.exe
+C:\Users\Darhan\source\repos\PeremennApp\bin\Debug\net6.0\PeremennApp.deps.json
+C:\Users\Darhan\source\repos\PeremennApp\bin\Debug\net6.0\PeremennApp.runtimeconfig.json
+C:\Users\Darhan\source\repos\PeremennApp\bin\Debug\net6.0\PeremennApp.dll
+C:\Users\Darhan\source\repos\PeremennApp\bin\Debug\net6.0\PeremennApp.pdb
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.dll
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\refint\PeremennApp.dll
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.pdb
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\PeremennApp.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\PeremennApp\obj\Debug\net6.0\ref\PeremennApp.dll

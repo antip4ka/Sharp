@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Antip4kaСalc/1.0.0": {
+        "runtime": {
+          "Antip4kaСalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antip4kaСalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

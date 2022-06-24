@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Antip4kaСalc\bin\Debug\net6.0\Antip4kaСalc.exe
+C:\Users\Darhan\source\repos\Antip4kaСalc\bin\Debug\net6.0\Antip4kaСalc.deps.json
+C:\Users\Darhan\source\repos\Antip4kaСalc\bin\Debug\net6.0\Antip4kaСalc.runtimeconfig.json
+C:\Users\Darhan\source\repos\Antip4kaСalc\bin\Debug\net6.0\Antip4kaСalc.dll
+C:\Users\Darhan\source\repos\Antip4kaСalc\bin\Debug\net6.0\Antip4kaСalc.pdb
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.dll
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\refint\Antip4kaСalc.dll
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.pdb
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\Antip4kaСalc.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Antip4kaСalc\obj\Debug\net6.0\ref\Antip4kaСalc.dll

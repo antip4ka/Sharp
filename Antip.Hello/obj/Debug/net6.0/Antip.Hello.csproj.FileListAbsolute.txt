@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\Antip.Hello\bin\Debug\net6.0\Antip.Hello.exe
+C:\Users\Darhan\source\repos\Antip.Hello\bin\Debug\net6.0\Antip.Hello.deps.json
+C:\Users\Darhan\source\repos\Antip.Hello\bin\Debug\net6.0\Antip.Hello.runtimeconfig.json
+C:\Users\Darhan\source\repos\Antip.Hello\bin\Debug\net6.0\Antip.Hello.dll
+C:\Users\Darhan\source\repos\Antip.Hello\bin\Debug\net6.0\Antip.Hello.pdb
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.dll
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\refint\Antip.Hello.dll
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.pdb
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\Antip.Hello.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\Antip.Hello\obj\Debug\net6.0\ref\Antip.Hello.dll
