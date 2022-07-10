@@ -1,0 +1,15 @@
+C:\Users\Darhan\source\repos\ACP_Antip\bin\Debug\net6.0\ACP_Antip.exe
+C:\Users\Darhan\source\repos\ACP_Antip\bin\Debug\net6.0\ACP_Antip.deps.json
+C:\Users\Darhan\source\repos\ACP_Antip\bin\Debug\net6.0\ACP_Antip.runtimeconfig.json
+C:\Users\Darhan\source\repos\ACP_Antip\bin\Debug\net6.0\ACP_Antip.dll
+C:\Users\Darhan\source\repos\ACP_Antip\bin\Debug\net6.0\ACP_Antip.pdb
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.csproj.AssemblyReference.cache
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.AssemblyInfoInputs.cache
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.AssemblyInfo.cs
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.csproj.CoreCompileInputs.cache
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.dll
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\refint\ACP_Antip.dll
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.pdb
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ACP_Antip.genruntimeconfig.cache
+C:\Users\Darhan\source\repos\ACP_Antip\obj\Debug\net6.0\ref\ACP_Antip.dll
